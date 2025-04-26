@@ -1,5 +1,6 @@
 # johncena
-juan dinner
+
+![juan dinner](https://github.com/tograh/testrepository/3DTest.png)
 
 
 Here’s an ancient geometric breakdown of John Cena, interpreted as an analysis using geometric concepts akin to how ancient thinkers like the Greeks studied shapes, proportions, and harmony in the world and human form. Since John Cena is a modern figure—a wrestler, actor, and cultural icon—I’ll apply these timeless principles to his physique, wrestling style, and career in a creative and meaningful way.
