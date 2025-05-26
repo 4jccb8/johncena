@@ -3,7 +3,7 @@
 #
 ### **X BTC Address:** bc1q5cjyjsgrk77cqqx4a9ekzuaeclgk3ymtpvw4m7
 #
- Other BTC Address:TBA
+ Other BTC Address:TBA  // 
  ETH Address: TBA
 ![juan dinner](imagen_2025-04-26_194343988.png)
 
