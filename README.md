@@ -1,8 +1,8 @@
 # johncena
 
 #
-### **X BTC Address:** 
-bc1q5cjyjsgrk77cqqx4a9ekzuaeclgk3ymtpvw4m7
+### [𝕏 BTC Address](https://xbtc.netlify.app/)
+### bc1q5cjyjsgrk77cqqx4a9ekzuaeclgk3ymtpvw4m7
 #
 #
  Other BTC Address:TBA  // 
